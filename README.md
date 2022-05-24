@@ -1,2 +1,2 @@
 # MODEL
-Code of model
+Code of models
